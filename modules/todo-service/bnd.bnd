@@ -1,0 +1,7 @@
+Bundle-Name: todo-service
+Bundle-SymbolicName: com.binh.todo.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.binh.todo.portlet.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"

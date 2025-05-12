@@ -1,0 +1,7 @@
+Bundle-Name: gradebook-portlet
+Bundle-SymbolicName: com.binh.gradebook
+Bundle-Version: 1.0.0
+Export-Package: com.binh.gradebook.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
